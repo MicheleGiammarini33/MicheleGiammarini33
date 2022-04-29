@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @MicheleGiammarini33
-
-
-<!---
-MicheleGiammarini33/MicheleGiammarini33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-#"Hello World!" + "👋I'm Michele😃"
+Hi 👋 My name is Michele Giammarini
+===================================
 
 ++++++++++
 [
@@ -26,97 +20,29 @@ Problem Solving (Basic) Certificate [Here](https://www.hackerrank.com/certificat
 #Ask me something [Here](https://github.com/MicheleGiammarini/my/issues/1)
 
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="16%" align="center">
-        <strong>HTML5</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>CSS3</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Bootstrap</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>JavaScript</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Ide</strong><br><br><br>
-        <img height="48px" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="16%" align="center">
-        <strong>Java</strong><br><br><br>
-        <img height="48px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Ide</strong><br><br><br>
-        <img height="48px" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>mySQL</strong><br><br><br>
-        <img height="48px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>Git</strong><br><br><br>
-        <img height="48px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="16%" align="center">
-        <strong>NPM</strong><br><br><br>
-        <img height="48px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 
 
-
-<h1>Corso Java<h1>
-<p>▪<h3> Utilizzare i concetti di programmazione orientata agli oggetti (OO)<h3><p>
-<p>▪ Utilizzare i vari costrutti del linguaggio di programmazione Java e gli
-strumenti standard del linguaggio<p>
-<p>▪ Sviluppare semplici applicazioni Java<p>
-<p>▪ Creare applicazioni client-server che sfruttano le tecnologie web e la
-connessione alle basi di dati<p>
-<p>▪ Concetti di logica di programmazione e al linguaggio Java in
-particolare<p>
-<p>▪ Variabili semplici e complesse
-▪ metodi.<p>
-<p>▪ Introduzione ai concetti di sequenza, selezione e iterazione e loro uso in
-Java<p>
-<p>Tecnica dell&#39;esecuzione simbolica.<p>
-<p>▪ Metodi e proprietà in dettaglio. Costruttori. Metodi e proprietà di
-classe.<p>
-<p>▪ Elaborazione di algoritmi e di programmi Java inerenti a quanto
-presentato.<p>
-<p>▪ Basi teoriche del design OO<p>
-<p>▪ Ereditarietà, incapsulamento, polimorfismo e loro uso pratico.<p>
-<p>Definizione di proprietà e metodi, loro<p>
-<p>▪ ereditarietà, architettura OO.<p>
-<p>▪ Interfacce e classi astratte<p>
-<p>▪ Gestione delle eccezioni<p>
-
- 
-
-<h1>Corso C#<h1>
-<p><h3>Attività e associazioni: MS-SQL, .NET, C#, Angular, Azure<h3><p>
-<p>Database relazionale SQL: MS-SQL Server: database relazionali, il linguaggio SQL, definizione struttura dati, principali tecniche di manipolazione ed estrazione dati<p>
-
-<p>Sistema di sviluppo Microsoft .NET: L’ambiente IDE Visual Studio; Il .NET Framework (4.5), e le principali librerie; Tipi di dati, tipi, istanze; Metodi, proprietà, eventi;<p>
-
-<p>Case study: realizzare una applicazione gestionale semplificata, basata su tre tabelle, funzioni CRUD e reporting elementare<p>
-
-<p>Sviluppo web oriented – Servizi e protocolli: Architettura Stateless; Servizi esposti via API; Protocollo http e JSON; Client Browser Based<p>
-
-<p>Sviluppo web oriented – Developing: Back-End (C#, Domain Driven Design, ASP.net core, ORM Entity Framework), Front-End (HTML5, Angular, TypeScript)<p>
-
-<p>Case study: realizzare una applicazione gestionale semplificata web-based<p>
-
-<p>Servizi cloud: MS-Azure: principi (IaaS,PaaS), paradigmi, utilizzo dei principali servizi di piattaforma: App Service, Function App, SQL Azure.<p>
+*   🌍  I'm based in Italy
+*   ✉️  You can contact me at [giammarinimichele@gmail.com](mailto:giammarinimichele@gmail.com)<a href="https://www.github.com/MicheleGiammarini33" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/MicheleGiammarini33?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
+                                <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+                                <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+                                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+                                <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/MicheleGiammarini33" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/michele-giammarini-847881178" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/MicheleGiammarini33"><img src="https://github-readme-stats.vercel.app/api?username=MicheleGiammarini33&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MicheleGiammarini33's GitHub stats" /></a><a
+                      href="http://www.github.com/MicheleGiammarini33"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=MicheleGiammarini33&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/MicheleGiammarini33"><img src="https://activity-graph.herokuapp.com/graph?username=MicheleGiammarini33&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/MicheleGiammarini33" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleGiammarini33&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
