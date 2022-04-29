@@ -1,8 +1,8 @@
 Hi 👋 My name is Michele Giammarini
 ===================================
 
-* 🌍  I'm based in Italy
-* ✉️  You can contact me at [giammarinimichele@gmail.com](mailto:giammarinimichele@gmail.com)
+* 🌍  I'm based in Italy
+* ✉️  You can contact me at [giammarinimichele@gmail.com](mailto:giammarinimichele@gmail.com)
 
 
 ++++++++++
@@ -26,7 +26,8 @@ Problem Solving (Basic) Certificate [Here](https://www.hackerrank.com/certificat
 
 
 <a href="https://www.github.com/MicheleGiammarini33" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MicheleGiammarini33?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/MicheleGiammarini33?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
+
 ### Skills
 
 <p align="left">
@@ -39,20 +40,22 @@ src="https://img.shields.io/github/followers/MicheleGiammarini33?logo=github&sty
 </p>
 
 
+### Socials
 
 <p align="left"> <a href="https://www.github.com/MicheleGiammarini33" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/michele-giammarini-847881178" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MicheleGiammarini33"><img src="https://github-readme-stats.vercel.app/api?username=MicheleGiammarini33&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MicheleGiammarini33's GitHub stats" /></a>
+<a href="http://www.github.com/MicheleGiammarini33"><img src="https://github-readme-stats.vercel.app/api?username=MicheleGiammarini33&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="MicheleGiammarini33's GitHub stats" /></a>
 
-<a href="http://www.github.com/MicheleGiammarini33"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MicheleGiammarini33&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/MicheleGiammarini33"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MicheleGiammarini33&stroke=14b8a6&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="http://www.github.com/MicheleGiammarini33"><img src="https://activity-graph.herokuapp.com/graph?username=MicheleGiammarini33&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/MicheleGiammarini33"><img src="https://activity-graph.herokuapp.com/graph?username=MicheleGiammarini33&bg_color=1c1917&color=14b8a6&line=6366f1&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/MicheleGiammarini33" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleGiammarini33&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/MicheleGiammarini33" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleGiammarini33&langs_count=10&title_color=0891b2&text_color=14b8a6&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+### Support Me
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://www.buymeacoffee.com/MicheleGiamma"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
