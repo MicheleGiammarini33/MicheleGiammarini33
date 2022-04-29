@@ -4,6 +4,27 @@ Hi 👋 My name is Michele Giammarini
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [giammarinimichele@gmail.com](mailto:giammarinimichele@gmail.com)
 
+
+++++++++++
+[
+>+++++++>++++++++++>+++>+<<<<-
+]
+>++++++-++.
+++++++++------------. 
+++++++------------. 
++++++++++++++--------.
+---.
++++++++.
+-------.
+
+Computer Science for Business Professionals [Here](https://certificates.cs50.io/dd22c329-4bd1-4477-86b3-60c953e3e899.pdf?size=letter)
+ 
+Problem Solving (Basic) Certificate [Here](https://www.hackerrank.com/certificates/50fb32da8bc7)
+
+#Ask me something [Here](https://github.com/MicheleGiammarini/my/issues/1)
+
+
+
 <a href="https://www.github.com/MicheleGiammarini33" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MicheleGiammarini33?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
@@ -17,10 +38,10 @@ src="https://img.shields.io/github/followers/MicheleGiammarini33?logo=github&sty
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
 
-### Socials
+
 
 <p align="left"> <a href="https://www.github.com/MicheleGiammarini33" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/michele-giammarini-847881178" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
+
 
 <b>My GitHub Stats</b>
 
