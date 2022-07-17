@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/MicheleGiammarini33?logo=github&sty
 
 
 <a href="https://github.com/michelegiammarini33">
-<img height="250" src="https://github-profile-trophy.vercel.app/?username=enty8080&theme=nord" /></a>
+<img height="250" src="https://github-profile-trophy.vercel.app/?username=michelegiammarini33&theme=nord" /></a>
 </a>
 </p>
 
