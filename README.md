@@ -28,6 +28,16 @@ Problem Solving (Basic) Certificate [Here](https://www.hackerrank.com/certificat
 <a href="https://www.github.com/MicheleGiammarini33" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MicheleGiammarini33?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 
+
+
+
+<a href="https://github.com/michelegiammarini33">
+<img height="250" src="https://github-profile-trophy.vercel.app/?username=enty8080&theme=nord" /></a>
+</a>
+</p>
+
+
+
 ### Skills
 
 <p align="left">
