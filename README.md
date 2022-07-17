@@ -25,9 +25,6 @@ Problem Solving (Basic) Certificate [Here](https://www.hackerrank.com/certificat
 
 
 
-<a href="https://www.github.com/MicheleGiammarini33" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MicheleGiammarini33?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
-
 
 
 
@@ -65,4 +62,9 @@ src="https://img.shields.io/github/followers/MicheleGiammarini33?logo=github&sty
 <a href="http://www.github.com/MicheleGiammarini33"><img src="https://activity-graph.herokuapp.com/graph?username=MicheleGiammarini33&bg_color=1c1917&color=14b8a6&line=6366f1&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/MicheleGiammarini33" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleGiammarini33&langs_count=10&title_color=0891b2&text_color=14b8a6&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+<a href="https://www.github.com/MicheleGiammarini33" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MicheleGiammarini33?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 
