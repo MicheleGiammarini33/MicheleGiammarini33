@@ -1,5 +1,5 @@
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+[![170701-1-Copia.png](https://i.postimg.cc/50dHwK9s/170701-1-Copia.png)](https://postimg.cc/CZ7L0Nq8)
+ 
 Hi 👋 My name is Michele Giammarini
 ===================================
 
