@@ -1,4 +1,4 @@
-[![170701-1-Copia.png](https://i.postimg.cc/50dHwK9s/170701-1-Copia.png)](https://postimg.cc/CZ7L0Nq8)
+[![pngwing-com-4.png](https://i.postimg.cc/cJvNhdkm/pngwing-com-4.png)](https://postimg.cc/1g1T51Qn)
  
 Hi 👋 My name is Michele Giammarini
 ===================================
