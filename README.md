@@ -4,7 +4,7 @@ Hi 👋 My name is Michele Giammarini
 ===================================
 
 * 🌍  I'm based in Italy
-* ✉️  You can contact me at [giammarinimichele@gmail.com](mailto:giammarinimichele@gmail.com)
+
 
 
 ++++++++++
