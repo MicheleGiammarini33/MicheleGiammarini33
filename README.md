@@ -2,7 +2,6 @@
  
 Hi 👋 My name is Michele Giammarini
 ===================================
-<div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="michele-giammarini-847881178" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/michele-giammarini-847881178?trk=profile-badge">Michele Giammarini</a></div>
               
 * 🌍  I'm based in Italy
 
